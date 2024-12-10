@@ -1,3 +1,3 @@
 {
-    "rewrites": [{ "source": "/(.*)", "destination": "/dist/build/h5/index.html" }]
+    "rewrites": [{ "source": "/(.*)", "destination": "/build/h5/index.html" }]
 }
